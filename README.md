@@ -1,18 +1,21 @@
-### Hi there 👋
+### Hi I am Edgar, a SJTU student who wants to be a full-stack developer 🚀
+
+
+--------------------------------------------------------------------------------
+
+**- 🌱 I’m currently working on:**
+
+
+<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://github.com/gin-gonic/gin" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://vue.js.org/" target="_blank"><img height="50" src="https://vue.js.org/vue.svg"></a></code>
+
+--------------------------------------------------------------------------------
 
 <!--
-**Cyberist-Edgar/Cyberist-Edgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 -->
+
 
 ![Edgar](https://github-readme-stats.vercel.app/api?username=Cyberist-Edgar&show_icons=true)
