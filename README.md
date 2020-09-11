@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------------------------
 
-**- 🌱 I’m currently working on:**
+**🌱 I’m currently working on:**
 
 
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
