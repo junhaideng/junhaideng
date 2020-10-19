@@ -1,4 +1,4 @@
-### Hi I am Edgar, a SJTU student who wants to be a full-stack developer 🚀
+### Hi I am Edgar, a SJTU student  🚀
 
 
 --------------------------------------------------------------------------------
