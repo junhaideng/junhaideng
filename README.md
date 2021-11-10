@@ -1,9 +1,9 @@
-### Hi I am Edgar, a SJTU student  🚀
+### Hi :wave:
 
 
 --------------------------------------------------------------------------------
 
-**🌱 I’m currently working on:**
+**🌱 I’m currently learning :**
 
 
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
